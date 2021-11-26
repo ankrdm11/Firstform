@@ -1,0 +1,33 @@
+    body {
+        background: url("img/from3.jpg");
+        background-size: 100%;
+        background-position: -400px 0px;
+        background-color: rgb(155, 226, 208);
+        border: 15px solid rgb(82, 80, 77);
+        margin: 0% auto;
+        padding: 50px;
+        width: 30%;
+        border-radius: 100px;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        -ms-border-radius: 50px;
+        -o-border-radius: 50px;
+    }
+    
+    h1 {
+        color: white;
+    }
+    
+    form {
+        border-top: 50px;
+        color: white;
+    }
+    
+    input {
+        padding: 8px;
+        border-color: rebeccapurple;
+    }
+    
+    label {
+        border-color: green;
+    }
